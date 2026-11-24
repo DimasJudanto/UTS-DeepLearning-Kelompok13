@@ -6,7 +6,7 @@
 |---|---|---|---|
 | Dimas Judanto | 101032300162 | Task 1 dan Task 3: menjalankan notebook, eksperimen, prediksi_klasifikasi.csv, cluster.csv, README, penyusunan laporan.pdf, Bab 1, 2, 4 | [#1](https://github.com/Kelompok-13-DeepLearning/UTS-DeepLearning-Kelompok13/pull/2) |
 | Nawjan Muhammad Fadhlan | 101032300097 | Task 2: menjalankan notebook, eksperimen, `prediksi_rul.csv` | [#3](link) |
-| [Nama 3] | [NIM] | Laporan: penyusunan `laporan.pdf`, [bab yang dikerjakan] | [#4](link) |
+
 
 ## Penggunaan AI
 
